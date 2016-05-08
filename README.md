@@ -6,7 +6,7 @@ Simple factorial calculator using the conquer and divide technique. The code is 
 
 ## Preview
 
-![](https://drive.google.com/open?id=0B8Fwa81Qg6roRHdLWVF2SGdQLUE)
+![](https://raw.githubusercontent.com/dparicarana/bigfactorial/master/screenshot.png)
 
 ## How to Run
 
